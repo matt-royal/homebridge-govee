@@ -2,6 +2,12 @@
 
 All notable changes to `@homebridge-plugins/homebridge-govee` will be documented in this file.
 
+## v11.39.1 (Pending Release)
+
+### Changed
+
+- fix(lan): keep scanning for devices when the first scan finds none
+
 ## v11.39.0 (2026-08-28)
 
 ### Changed
